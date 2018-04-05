@@ -4,6 +4,7 @@ This repo contains an example business website that is built with [Gatsby](https
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
+
 ## Prerequisites
 
 - Node (I recommend using v8.2.0 or higher)
